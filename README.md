@@ -1,16 +1,23 @@
-# Project Data Anggota
+# Member Data Project
 
-Fitur:
-- Menampilkan data anggota
-- Menambahkan data anggota baru
+## Features
 
-Tech:
-- PHP Native
-- MySQL
-- XAMPP
+* Display member data
+* Add new member data
 
-Cara menjalankan:
-1. Clone repository
-2. Pindahkan folder ke htdocs
-3. Import db_quiz_koneksi.sql ke phpMyAdmin
-4. Jalankan localhost/project-anggota
+## Technologies Used
+
+* Native PHP
+* MySQL
+* XAMPP
+
+## How to Run
+
+1. Clone this repository
+2. Move the project folder to `htdocs`
+3. Import `db_quiz_koneksi.sql` into phpMyAdmin
+4. Run the project at:
+
+```text
+http://localhost/project-anggota
+```
